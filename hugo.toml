@@ -1,4 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Tomek Garbus'
+theme = 'papermod'
+toc = true
+sectionPagesMenu = "main"
+
+[params]
+[params.homeInfoParams]
+Title = 'Hi!'
+Content = 'Tekst dolny'
