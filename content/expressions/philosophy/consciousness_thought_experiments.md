@@ -1,7 +1,6 @@
 +++
-title = '[PL] Consciousness - thought experiments'
+title = '(PL) Consciousness - thought experiments (2021)'
 date = 2023-11-19T17:49:24+01:00
-draft = true
 +++
 
 "Fenomenologiczne ujęcie świadomości - experymenty myślowe" is an essay which I wrote for my philosophy studies.
