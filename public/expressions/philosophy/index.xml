@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philosophy on Tomek Garbus</title>
-    <link>https://example.org/expressions/philosophy/</link>
+    <link>https://tomaszgarbus.github.io/about/expressions/philosophy/</link>
     <description>Recent content in Philosophy on Tomek Garbus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 17:47:13 +0100</lastBuildDate><atom:link href="https://example.org/expressions/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 17:47:13 +0100</lastBuildDate><atom:link href="https://tomaszgarbus.github.io/about/expressions/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(PL) Consciousness - thought experiments (2021)</title>
-      <link>https://example.org/expressions/philosophy/consciousness_thought_experiments/</link>
+      <link>https://tomaszgarbus.github.io/about/expressions/philosophy/consciousness_thought_experiments/</link>
       <pubDate>Sun, 19 Nov 2023 17:49:24 +0100</pubDate>
       
-      <guid>https://example.org/expressions/philosophy/consciousness_thought_experiments/</guid>
+      <guid>https://tomaszgarbus.github.io/about/expressions/philosophy/consciousness_thought_experiments/</guid>
       <description>&amp;ldquo;Fenomenologiczne ujęcie świadomości - experymenty myślowe&amp;rdquo; is an essay which I wrote for my philosophy studies.
 It analyses how thought experiments were used to criticise or reinforce different theories concerning the Hard problem of consciousness - a topic which I had been very passionate about for a long time.
 Download PDF</description>
