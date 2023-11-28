@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music on Tomek Garbus</title>
+    <link>https://example.org/expressions/music/</link>
+    <description>Recent content in Music on Tomek Garbus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 17:22:07 +0100</lastBuildDate><atom:link href="https://example.org/expressions/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schlägerei (2023)</title>
+      <link>https://example.org/expressions/music/schlagerei/</link>
+      <pubDate>Sun, 26 Nov 2023 17:22:14 +0100</pubDate>
+      
+      <guid>https://example.org/expressions/music/schlagerei/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Walden II (2022)</title>
+      <link>https://example.org/expressions/music/walden2/</link>
+      <pubDate>Sun, 26 Nov 2023 18:06:59 +0100</pubDate>
+      
+      <guid>https://example.org/expressions/music/walden2/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Walden III (2022)</title>
+      <link>https://example.org/expressions/music/walden3/</link>
+      <pubDate>Sun, 26 Nov 2023 17:52:14 +0100</pubDate>
+      
+      <guid>https://example.org/expressions/music/walden3/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Untitled (2020)</title>
+      <link>https://example.org/expressions/music/untitled1/</link>
+      <pubDate>Sun, 26 Nov 2023 17:52:07 +0100</pubDate>
+      
+      <guid>https://example.org/expressions/music/untitled1/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

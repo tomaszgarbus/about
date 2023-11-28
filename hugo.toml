@@ -4,7 +4,6 @@ title = 'Tomek Garbus'
 theme = 'papermod'
 toc = true
 sectionPagesMenu = "main"
-staticDir = 'static'
 
 [params]
 [params.homeInfoParams]
